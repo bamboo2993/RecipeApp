@@ -1,0 +1,81 @@
+{
+    "userName": "胚兒啾啾",
+    "userAccount": "pairjuju@yahoo.com.tw",
+    "user_description": "一個吃貨，只是喜歡煮",
+    "thumbnail_image": "./../assets/account_thumbnail/GH2.png",
+
+    "my_recipe": [
+      {
+        "title": "涼拌黑木耳",
+        "thumbnail_image": "http://i.imgur.com/80E3RtW.jpg",
+        "recipe_ID": "RID_1",
+        "userName": "胚兒啾啾",
+        "number_of_likes": "20"
+      },{
+        "title": "三蔬雞胸肉",
+        "thumbnail_image": "http://i.imgur.com/m99zi1L.jpg",
+        "recipe_ID": "RID_2",
+        "userName": "胚兒啾啾",
+        "number_of_likes": "37"
+      },{
+        "title": "鮭魚菠菜拌飯",
+        "thumbnail_image": "http://i.imgur.com/2T1L2yV.jpg",
+        "recipe_ID": "RID_3",
+        "userName": "胚兒啾啾",
+        "number_of_likes": "83"
+      }
+
+
+    ],
+    "my_subscription": [
+      {
+        "thumbnail_image": "http://i.imgur.com/W69Qw3w.png",
+        "user_ID": "UID_1",
+        "userName": "POTATO"
+      },{
+        "thumbnail_image": "http://i.imgur.com/clEl4UI.png",
+        "user_ID": "UID_2",
+        "userName": "AYU"
+      },
+      {
+        "thumbnail_image": "http://i.imgur.com/fDqViy6.png",
+        "user_ID": "UID_3",
+        "userName": "SUNNY"
+      },
+      {
+        "thumbnail_image": "http://i.imgur.com/CBQZo8W.png",
+        "user_ID": "UID_4",
+        "userName": "Gu Ann"
+      }
+    ],
+    "my_collection": [
+      {
+        "title": "抗敏蔥薑雞粥",
+        "thumbnail_image": "http://i.imgur.com/NZQnV89.jpg",
+        "recipe_ID": "RID_1",
+        "userName": "Lien Ted",
+        "number_of_likes": "65"
+      },{
+        "title": "蒜頭雞湯",
+        "thumbnail_image": "http://i.imgur.com/S3zp3pq.jpg",
+        "recipe_ID": "RID_1",
+        "userName": "PJ",
+        "number_of_likes": "210"
+      },{
+        "title": "九層塔野菇烘蛋",
+        "thumbnail_image": "http://i.imgur.com/IfGCDDT.jpg",
+        "recipe_ID": "RID_1",
+        "userName": "Lien Ted",
+        "number_of_likes": "54"
+      },{
+        "title": "辣味涼拌菇",
+        "thumbnail_image": "http://i.imgur.com/pP7Z43R.jpg",
+        "recipe_ID": "RID_1",
+        "userName": "GON",
+        "number_of_likes": "85"
+      }
+
+
+    ],
+
+}

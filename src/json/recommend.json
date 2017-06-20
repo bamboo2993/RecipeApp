@@ -1,0 +1,328 @@
+[
+   {
+      "title": "九層塔野菇烘蛋",
+      "thumbnail_image": "http://i.imgur.com/IfGCDDT.jpg",
+      "descriptions": "香菇、杏鮑菇含有多醣體，可幫助提升免疫力",
+      "descriptions_short": "大大提升免疫力的菌類料理",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "Lien Ted",
+        "userId": "UID_1",
+        "number_of_likes": "54",
+        "recipe_tag": [ "主食", "人氣" ]
+      },
+      "ingredients":[ "沙拉油 少許", "蒜頭碎 15g", "九層塔 適量", "鴻喜菇 半包", "雞蛋 4科", "鮮奶油150cc", "開水 50cc","起士 30g","鹽 少許","白胡椒粉 適量"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "先將鴻喜菇及九層塔以蒜頭碎炒香並且調味",
+          "thumbnail_image": "http://i.imgur.com/EQ5IUfP.jpg"
+
+        },{
+          "step_id": "2",
+          "description": "將炒好的食材加入蛋液裡，同時再加入配方中的鮮奶油及起士",
+          "thumbnail_image": "http://i.imgur.com/ZFYZXG1.jpg" 
+        },{
+          "step_id": "3",
+          "description": "將調合混合後的蛋液放入焗烤皿裡並放入烤箱，時間設定約為13~15分鐘，溫度為160度C",
+          "thumbnail_image": "http://i.imgur.com/ZFYZXG1.jpg" 
+        },{
+          "step_id": "4",
+          "description": "烤好後的成品可先以竹籤穿刺中間較厚的部份，如有熟的話就可以脫模了 最後再將成品切割成等比的份量就可以了",
+          "thumbnail_image": "http://i.imgur.com/1nupezK.jpg" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "Steven Lee",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/02/01",
+          "comment": "He did an amazing clarification of his courses!"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "AYu",
+          "thumbnail_image": "http://i.imgur.com/clEl4UI.png" ,
+          "time_stamp": "2017/02043",
+          "comment": "成功了!好好吃TT"
+        },{
+          "comment_id": "3",
+          "userId": "UID_3",
+          "userName": "Potato",
+          "thumbnail_image": "http://i.imgur.com/W69Qw3w.png" ,
+          "time_stamp": "2017/04/23",
+          "comment": "超好吃~感謝分享"
+        }
+      ]
+   },
+   {
+      "title": "干貝蛋炒飯",
+      "thumbnail_image": "http://i.imgur.com/jsUgepm.jpg",
+      "descriptions": "在香港茶樓會吃到的一道炒飯，用蛋白和乾貝一起炒，感覺較清新不膩，名貴又好吃。在家裡自己炒，材料份量加倍，美味又飽足～",
+      "descriptions_short": "清新不膩的炒飯!",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "Lien Ted",
+        "userId": "UID_1",
+        "number_of_likes": "33",
+        "recipe_tag": [ "主食", "人氣" ]
+      },
+      "ingredients":[ "白飯 2碗", "節瓜 1個", "薑末 2小匙", "蛋白 3個", "干貝 適量"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "將節瓜切成小塊，放入沸水內煮一至兩分鐘，盛起備用",
+          "thumbnail_image": "http://i.imgur.com/P26QXdJ.jpg"
+
+        },{
+          "step_id": "2",
+          "description": "熱鍋後下油，炒蛋白，盛起備用",
+          "thumbnail_image": "http://i.imgur.com/JJotYRB.jpg" 
+        },{
+          "step_id": "3",
+          "description": "將乾貝浸軟，蒸至軟身，然後撕成幼絲。熱鍋下油，下薑未，再炒一炒乾貝",
+          "thumbnail_image": "http://i.imgur.com/6g63Cgw.jpg" 
+        },{
+          "step_id": "4",
+          "description": "然後加入白飯，下鹽調味",
+          "thumbnail_image": "http://i.imgur.com/wQuqN9B.jpg" 
+        },{
+          "step_id": "5",
+          "description": "加入蛋白和節瓜，拌勻即成",
+          "thumbnail_image": "http://i.imgur.com/snQ6VN9.jpg" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "Gu Ann",
+          "thumbnail_image": "http://i.imgur.com/fDqViy6.png" ,
+          "time_stamp": "2017/04/23",
+          "comment": "炒出來很香，好吃!"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "Byo",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/04/23",
+          "comment": "懶得分開蛋白直接用整個蛋了，還是很好吃!"
+        }
+      ]
+   },
+      {
+      "title": "莎莎醬嫩雞肉片",
+      "thumbnail_image": "http://i.imgur.com/WcP0PqY.jpg",
+      "descriptions": "改良版的低油莎莎醬拌入煎香的低脂雞胸肉片.再加上脆口啾西的多醣體菇菇...微酸微鹹..這是我的減肥下午茶!!",
+      "descriptions_short": "微酸微鹹墊墊胃",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "PJ",
+        "userId": "UID_1",
+        "number_of_likes": "43",
+        "recipe_tag": [ "嘴饞", "人氣" ]
+      },
+      "ingredients":[ "雞胸肉(去皮) 150g", "鴻喜菇(半包) 80g", "美白菇或精靈菇 80g", "牛番茄(切小丁) 1/2或1顆", "洋蔥(切小丁) 1/4或1/2顆", "芫荽(取葉.切碎末) 1小把", "蒜頭(切碎末) 2顆", "香蒜粒.黑胡椒粒 各1/2小匙", "玫瑰鹽 1/2小匙", "義大利香料粉 1/2小匙", "檸檬(擠汁) 半顆", "初榨橄欖油(可省略) 1小匙", "玫瑰鹽 極少", "日本太白粉 1小匙", "炒油 1小匙"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "雞胸肉斜切成大薄片",
+          "thumbnail_image": "http://i.imgur.com/AJCALSN.jpg"
+        },{
+          "step_id": "2",
+          "description": "加入雞肉醃料前2項.抓醃一下(約5分鐘)",
+          "thumbnail_image": "http://i.imgur.com/ngTiJJ7.jpg" 
+        },{
+          "step_id": "3",
+          "description": "再加入雞肉醃料後兩項(日本太白粉.油)拌勻",
+          "thumbnail_image": "http://i.imgur.com/Js4wHhe.jpg" 
+        },{
+          "step_id": "4",
+          "description": "將肉片放入鍋中(不加油.不開火)盡量全部攤平不重疊.擺好後再開中小火慢煎至肉色反白",
+          "thumbnail_image": "http://i.imgur.com/yt4RB28.jpg" 
+        },{
+          "step_id": "5",
+          "description": "兩面都煎香.煎熟即可起鍋備用~",
+          "thumbnail_image": "http://i.imgur.com/YiWeyY6.jpg" 
+        },{
+          "step_id": "6",
+          "description": "乾鍋(不加油)將菇類放入乾煸至微軟.表面出水.即可起鍋備用(菇類乾煎可以去除菇類的濕氣霉味.還會更鮮甜.更啾西呦)",
+          "thumbnail_image": "http://i.imgur.com/x7kxnJi.jpg" 
+        },{
+          "step_id": "7",
+          "description": "莎莎醬材料全部混合(牛番茄要去皮切小丁呦~)",
+          "thumbnail_image": "http://i.imgur.com/rlCT0rg.jpg" 
+        },{
+          "step_id": "8",
+          "description": "將菇菇.肉片.莎莎醬一同拌勻",
+          "thumbnail_image": "http://i.imgur.com/KAHi1Je.jpg" 
+        },{
+          "step_id": "9",
+          "description": "試一下味道就完成囉~(嗜酸嗜鹹者調味上可自行斟酌)~",
+          "thumbnail_image": "http://i.imgur.com/Yar1GCu.jpg" 
+        },{
+          "step_id": "10",
+          "description": "低脂的雞胸肉片+涮嘴的改良低油莎莎醬~真的覺得減肥也可以吃得很幸福~",
+          "thumbnail_image": "http://i.imgur.com/WcP0PqY.jpg" 
+        },{
+          "step_id": "11",
+          "description": "也可以把雞肉換成麵喔~也非常好吃(此食譜可參考我的愛料理食譜裡的粉紅冷麵~",
+          "thumbnail_image": "http://i.imgur.com/3i52JTB.jpg" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "B4",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/04/23",
+          "comment": "齁假!"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "AYU",
+          "thumbnail_image": "http://i.imgur.com/clEl4UI.png" ,
+          "time_stamp": "2017/09/03",
+          "comment": "爽口~"
+        },{
+          "comment_id": "3",
+          "userId": "UID_3",
+          "userName": "Steven Lee",
+          "thumbnail_image": "http://i.imgur.com/fDqViy6.png" ,
+          "time_stamp": "2017/10/11",
+          "comment": "He did an amazing clarification of his courses!"
+        }
+      ]
+   },
+      {
+      "title": "辣味涼拌菇",
+      "thumbnail_image": "http://i.imgur.com/pP7Z43R.jpg",
+      "descriptions": "簡單快速就可以完成！川燙菇類的時間，處理其它食材及調醬汁，輕輕鬆鬆15分鐘，就可端上一道開胃菜色喔！",
+      "descriptions_short": "簡單快速馬上上菜完成！",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "GON",
+        "userId": "UID_1",
+        "number_of_likes": "85",
+        "recipe_tag": [ "嘴饞", "人氣" ]
+      },
+      "ingredients":[ "鴻禧菇 1包", "雪白菇 1包", "牛番茄 顆", "辣椒(配色可略) 1/2支","蔥花(也可用香菜) 2小匙", "蒜末(或薑絲) 1-2小匙", "醬油 1/2大匙", "高粱酒醋(或米醋) 1.5大匙", "檸檬汁(無可用醋) 1大匙", "糖 2.5小匙", "鹽 1/4小匙", "麻油 1小匙"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "鴻禧菇和雪白菇，放入加了1小匙鹽的滾水中川燙，3-4分鐘後撈起，沖洗一下開水後瀝乾水份。",
+          "thumbnail_image": "http://i.imgur.com/dq4hNuY.jpg"
+
+        },{
+          "step_id": "2",
+          "description": "調理盆中加入切丁的番茄、蔥花和辣椒，放入菇類。",
+          "thumbnail_image": "http://i.imgur.com/uwV1NPr.jpg" 
+        },{
+          "step_id": "3",
+          "description": "醬汁材料全部調勻。",
+          "thumbnail_image": "http://i.imgur.com/W1FctTP.jpg" 
+        },{
+          "step_id": "4",
+          "description": "步驟2倒入醬汁後拌勻，放入冰箱冰鎮一下更好吃喔！",
+          "thumbnail_image": "http://i.imgur.com/3txNX4i.jpg" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "PJ",
+          "thumbnail_image": "http://i.imgur.com/fDqViy6.png" ,
+          "time_stamp": "2017/04/25",
+          "comment": "還蠻開胃的XDDD!"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "Steven Lee",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/04/30",
+          "comment": "He did an amazing clarification of his courses!"
+        }
+      ]
+   },
+      {
+      "title": "辣味涼拌洋蔥",
+      "thumbnail_image": "http://i.imgur.com/prfn1ZB.jpg",
+      "descriptions": "夏天好熱真的很想吃些清涼的涼拌開胃菜， 做一盒香香辣辣的涼拌海帶芽放在冰箱裡， 吃飯的時候拿一些出來當開胃小菜~很不錯唷!",
+      "descriptions_short": "夏天好熱來些清涼的開胃菜吧",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "PJ",
+        "userId": "UID_1",
+        "number_of_likes": "33",
+        "recipe_tag": [ "嘴饞", "人氣" ]
+      },
+      "ingredients":[ "乾燥海帶芽一份","洋蔥一顆","辣椒 (依個人喜歡的辣度添加)1-2條","蒜頭2-3瓣","醬油5大匙", "糖3大匙", "香油1大匙", "醋2大匙","芝麻 (可不加)適量"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "乾燥海帶芽用冷開水泡開",
+          "thumbnail_image": ""
+
+        },{
+          "step_id": "2",
+          "description": "洋蔥切細絲 用冷水沖洗並浸泡一陣去除辛辣味",
+          "thumbnail_image": "" 
+        },{
+          "step_id": "3",
+          "description": "蒜頭.辣椒切末後與其他調味料一起混合均勻",
+          "thumbnail_image": "" 
+        },{
+          "step_id": "4",
+          "description": "泡開的海帶芽擠掉大部分的水份與洋蔥絲一起放入保鮮盒 (如果海帶芽是大塊的~ 泡開後要記得剪小塊喔!)",
+          "thumbnail_image": "" 
+        },{
+          "step_id": "5",
+          "description": "把混合好的醬料倒入保鮮盒中混合均勻",
+          "thumbnail_image": "" 
+        },{
+          "step_id": "6",
+          "description": "靜置30分鐘以上就可以開吃喔!",
+          "thumbnail_image": "" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "BYO",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/06/23",
+          "comment": "覺得在放久一些會更入味~"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "POTATO",
+          "thumbnail_image": "http://i.imgur.com/W69Qw3w.png" ,
+          "time_stamp": "2017/07/17",
+          "comment": "醬一開始不小心調錯了有點太鹹XD!"
+        },{
+          "comment_id": "3",
+          "userId": "UID_3",
+          "userName": "GU ANN",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/09/08",
+          "comment": "超~好~吃~"
+        }
+      ]
+   },
+
+]

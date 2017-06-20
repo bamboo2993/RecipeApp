@@ -1,0 +1,303 @@
+[
+   {
+      "title": "抗敏蔥薑雞粥",
+      "thumbnail_image": "http://i.imgur.com/NZQnV89.jpg",
+      "descriptions": "搞定惱人的婦科問題，氣色好美到老",
+      "descriptions_short": "氣色好的秘密食譜",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "Lien Ted",
+        "userId": "UID_1",
+        "number_of_likes": "65",
+        "recipe_tag": [ "主食", "健康" ]
+      },
+      "ingredients":[ "帶骨雞肉12公克", "米100公克", "紅棗10顆", "生薑片10公克", "薑片 2 片", "蔥白（切末）15公克"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "食材全部洗淨，雞肉略為汆燙洗淨備用。",
+          "thumbnail_image": ""
+
+        },{
+          "step_id": "2",
+          "description": "再放入電鍋中以適量的清水（約200c.c.）熬煮，煮至粥熟爛，悶5分鐘後，最後加入蔥末及鹽巴調味，即可食用。",
+          "thumbnail_image": "" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "potato",
+          "thumbnail_image": "http://i.imgur.com/W69Qw3w.png" ,
+          "time_stamp": "2017/04/23",
+          "comment": "好吃又健康"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "Gu Ann",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/06/19",
+          "comment": "對感冒也蠻有用的~好吃!"
+        }
+      ]
+   },
+   {
+      "title": "三蔬雞胸肉",
+      "thumbnail_image": "http://i.imgur.com/m99zi1L.jpg",
+      "descriptions": "雞胸可以說是雞肉裡面脂肪最低的部位，而且肉也多，又不貴，來試試看Penny自己的做法吧。這次裡頭多補充了一些蔬菜的營養價值~",
+      "descriptions_shorts": "瘦身的好夥伴－雞胸肉",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "AYU",
+        "userId": "UID_1",
+        "number_of_likes": "198",
+        "recipe_tag": [ "主食", "健康" ]
+      },
+      "ingredients":[ "空心菜一把", "青椒一顆", "洋蔥半顆", "紅蘿蔔適量", "雞胸肉1.5副"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "先將材料備齊，清洗乾淨。全部都切成絲條狀。",
+          "thumbnail_image": "http://i.imgur.com/ruFwomZ.jpg"
+
+        },{
+          "step_id": "2",
+          "description": "炒紅蘿蔔",
+          "thumbnail_image": "http://i.imgur.com/9AEb2JH.jpg" 
+        },{
+          "step_id": "3",
+          "description": "加入洋蔥",
+          "thumbnail_image": "http://i.imgur.com/LMxHPnV.jpg" 
+        },{
+          "step_id": "4",
+          "description": "加入青椒",
+          "thumbnail_image": "http://i.imgur.com/u1Ub2PO.jpg" 
+        },{
+          "step_id": "5",
+          "description": "加入雞胸肉",
+          "thumbnail_image": "http://i.imgur.com/rjNFo7z.jpg" 
+        },{
+          "step_id": "6",
+          "description": "最後所有食材都熟成後撒入適量的黑胡椒及鹽巴調味，就完成啦！！",
+          "thumbnail_image": "http://i.imgur.com/m99zi1L.jpg" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "POTATO",
+          "thumbnail_image": "http://i.imgur.com/W69Qw3w.png" ,
+          "time_stamp": "2017/03/15",
+          "comment": "好吃!"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "BYO",
+          "thumbnail_image": "http://i.imgur.com/fDqViy6.png" ,
+          "time_stamp": "2017/04/21",
+          "comment": "謝分享"
+        },{
+          "comment_id": "3",
+          "userId": "UID_3",
+          "userName": "GU ANN",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/06/03",
+          "comment": "成功做出來了，好吃!"
+        },{
+          "comment_id": "4",
+          "userId": "UID_4",
+          "userName": "AYU",
+          "thumbnail_image": "http://i.imgur.com/clEl4UI.png" ,
+          "time_stamp": "2017/10/10",
+          "comment": "健康好吃"
+        }
+      ]
+   },
+   {
+      "title": "蛤蠣培根悶高麗菜",
+      "thumbnail_image": "http://i.imgur.com/It5vdIC.jpg",
+      "descriptions": "夏天一到，就會想吃些清爽調味的菜式。↵↵這道菜的味道真的非常棒～高麗菜在培根和蛤蜊的鮮美高湯中悶煮，也釋放出本身的自然甜味。↵↵再加上一個秘密武器：檸檬，微微的酸味讓甜美的湯汁味道層次更加分明，應該很難想像檸檬的酸味竟然能跟高麗菜這麼合拍吧！這盤菜吃完，連湯汁都不能放過喔！",
+      "descriptions_short": "夏天來些清爽檸檬調味的菜式吧!",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "BYO",
+        "userId": "UID_1",
+        "number_of_likes": "186",
+        "recipe_tag": [ "主食", "健康" , "快速" ]
+      },
+      "ingredients":[ "高麗菜1/4 顆", "蛤蜊15顆", "蒜頭1小瓣", "培根1條", "油2小匙", "奶油少許", "檸檬1小塊", "酒1大匙", "水2小匙", "胡椒少許"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "蛤蜊吐沙乾淨後瀝乾，高麗菜切適口大小塊狀，蒜頭切粗末，培根切寬條狀。",
+          "thumbnail_image": "http://i.imgur.com/IfKkZ28.jpg"
+
+        },{
+          "step_id": "2",
+          "description": "鍋中加入油跟奶油，小火炒香蒜末與培根。",
+          "thumbnail_image": "http://i.imgur.com/CnGsHfR.jpg" 
+        },{
+          "step_id": "3",
+          "description": "炒出香味後，加入蛤蜊蓋上鍋蓋悶2-3分，等蛤蜊開口即將湯汁傾倒於鍋中，蛤蜊取出備用。",
+          "thumbnail_image": "http://i.imgur.com/yQCFpRk.jpg" 
+        },{
+          "step_id": "4",
+          "description": "加入高麗菜後，均勻淋上調味汁，蓋上鍋蓋中小火悶煮5分鐘。",
+          "thumbnail_image": "http://i.imgur.com/jP4fNCF.jpg" 
+        },{
+          "step_id": "5",
+          "description": "高麗菜熟軟後拌炒均勻，並加入蛤蜊一起略翻炒，關火起鍋前將檸檬擠汁淋上，再翻炒一下讓味道均勻分散即完成。",
+          "thumbnail_image": "http://i.imgur.com/KijyxbO.jpg" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "PJ",
+          "thumbnail_image": "http://i.imgur.com/fDqViy6.png" ,
+          "time_stamp": "2017/04/23",
+          "comment": "加檸檬真的很好吃!!"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "AYU",
+          "thumbnail_image": "http://i.imgur.com/clEl4UI.png" ,
+          "time_stamp": "2017/04/25",
+          "comment": "爽口好吃"
+        },{
+          "comment_id": "3",
+          "userId": "UID_3",
+          "userName": "POTATO",
+          "thumbnail_image": "http://i.imgur.com/W69Qw3w.png" ,
+          "time_stamp": "2017/08/26",
+          "comment": "好吃~~~~"
+        }
+      ]
+   },
+   {
+      "title": "蒜頭雞湯",
+      "thumbnail_image": "http://i.imgur.com/S3zp3pq.jpg",
+      "descriptions": "忽冷忽熱的天氣，最適合來一鍋「蒜頭雞湯」滋補身體！",
+      "descriptions_short": "滋補身體，讓你健康百分百",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "PJ",
+        "userId": "UID_1",
+        "number_of_likes": "210",
+        "recipe_tag": [ "主食", "健康" ]
+      },
+      "ingredients":[ "雞腿肉1隻", "蒜頭20粒", "鹽酌量"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "雞腿切塊，用滾水燙過後洗淨備用。",
+          "thumbnail_image": ""
+
+        },{
+          "step_id": "2",
+          "description": "將10粒蒜頭放入熱油中炸香，約3分鐘即可取出備用。",
+          "thumbnail_image": "http://i.imgur.com/WIDSQ04.jpg" 
+        },{
+          "step_id": "3",
+          "description": "將雞肉與全部的蒜頭一起放入鍋，加入適量的水燉煮約50分鐘即完成。",
+          "thumbnail_image": "http://i.imgur.com/aoqDRqa.jpg" 
+        },{
+          "step_id": "4",
+          "description": "加鹽調味後即完成。",
+          "thumbnail_image": "http://i.imgur.com/S3zp3pq.jpg" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "BYO",
+          "thumbnail_image": "http://i.imgur.com/fDqViy6.png" ,
+          "time_stamp": "2017/02/23",
+          "comment": "對感冒很有用"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "Steven Lee",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/03/03",
+          "comment": "味道好香"
+        },{
+          "comment_id": "3",
+          "userId": "UID_3",
+          "userName": "AYU",
+          "thumbnail_image": "http://i.imgur.com/clEl4UI.png" ,
+          "time_stamp": "2017/05/16",
+          "comment": "很好喝"
+        }
+      ]
+   },
+   {
+      "title": "鮭魚菠菜拌飯",
+      "thumbnail_image": "http://i.imgur.com/2T1L2yV.jpg",
+      "descriptions": "要低卡也要好吃更要快速方便↵↵鮭魚、菠菜、蛋 都是不太需要調味就能很好吃的食物；↵↵ 菠菜熱量低 營養高，↵↵ 鮭魚富含omega-3不飽和脂肪酸，能照顧心血管系統、保健視力與皮膚且增加食物風味↵↵簡單的食物就算做了隔天帶便當也很好吃",
+      "descriptions_short": "低卡健康好吃快速方便",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "POTATO",
+        "userId": "UID_1",
+        "number_of_likes": "45",
+        "recipe_tag": [ "主食", "快速","健康" ]
+      },
+      "ingredients":[ "鮭魚約半片(小片)", "菠菜半珠", "蛋1顆", "糙米依喜好", "藜麥quinoa依喜好", "鹽巴0.5小匙", "黑胡椒粉依喜好", "香油(可省)兩滴"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "*先鮭魚放入烤箱烤熟 *蛋加鹽攪拌後炒熟 *水滾後放入菠菜低兩滴香油燙30秒(可以炒蛋的鍋子不用洗 直接加水燙菜)",
+          "thumbnail_image": "http://i.imgur.com/DeUy36d.jpg"
+
+        },{
+          "step_id": "2",
+          "description": "菠菜剪到約2cm大小(依喜好)，全部倒入飯中攪拌",
+          "thumbnail_image": "" 
+        },{
+          "step_id": "3",
+          "description": "撒上黑胡椒~完成",
+          "thumbnail_image": "http://i.imgur.com/2T1L2yV.jpg" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "Steven Lee",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/09/10",
+          "comment": "He did an amazing clarification of his courses!"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "BYO",
+          "thumbnail_image": "http://i.imgur.com/fDqViy6.png" ,
+          "time_stamp": "2017/11/01",
+          "comment": "分量剛剛好~"
+        },{
+          "comment_id": "3",
+          "userId": "UID_3",
+          "userName": "GU ANN",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/11/25",
+          "comment": "齁甲!!"
+        }
+      ]
+   },
+
+]

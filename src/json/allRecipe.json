@@ -1,0 +1,59 @@
+[
+   {
+      "title": "香菇雞湯",
+      "thumbnail_image": "http://pic.pimg.tw/crazyanise/4a66d4ef9acb3.jpg",
+      "descriptions": "香菇、杏鮑菇含有多醣體，可幫助提升免疫力；雞湯能夠改善人體的免疫機能",
+      "recipe_id": "RID_1",
+      "recipe_info": {
+        "userName": "Lien Ted",
+        "userId": "UID_1",
+        "number_of_likes": "33",
+        "recipe_tag": [ "主食", "" ]
+      },
+      "ingredients":[ "乾香菇 4 朵", "杏鮑菇 1根", "雞腿 1隻", "料理米酒（可視個人口味調整） 2大匙", "薑片 2 片", "鹽 適量", "飲用水 500cc"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "先將香菇泡軟洗淨，雞肉用熱水川燙去血水後備用。",
+          "thumbnail_image": "http://pic.pimg.tw/crazyanise/4a66d4ef9acb3.jpg"
+
+        },{
+          "step_id": "2",
+          "description": "香菇半切，將飲用水倒入鍋開大火，水滾後先丟入薑片和香菇,蓋上鍋蓋轉中火煮個10分鐘。",
+          "thumbnail_image": "http://pic.pimg.tw/crazyanise/4a66d4ef9acb3.jpg" 
+        },{
+          "step_id": "3",
+          "description": "將雞腿放入鍋,蓋上鍋蓋再煮個15分鐘↵↵加入鹽巴調味,將米酒沿著鍋內邊緣淋,,蓋上鍋蓋悶煮個10分鐘。",
+          "thumbnail_image": "http://pic.pimg.tw/crazyanise/4a66d4ef9acb3.jpg" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "Steven Lee",
+          "thumbnail_image": "http://pic.pimg.tw/crazyanise/4a66d4ef9acb3.jpg" ,
+          "time_stamp": "2017/04/23",
+          "comment": "He did an amazing clarification of his courses!"
+        },{
+          "comment_id": "2",
+          "userId": "123",
+          "userName": "Steven Lee",
+          "thumbnail_image": "http://pic.pimg.tw/crazyanise/4a66d4ef9acb3.jpg" ,
+          "time_stamp": "2017/04/23",
+          "comment": "He did an amazing clarification of his courses!"
+        },{
+          "comment_id": "3",
+          "userId": "123",
+          "userName": "Steven Lee",
+          "thumbnail_image": "http://pic.pimg.tw/crazyanise/4a66d4ef9acb3.jpg" ,
+          "time_stamp": "2017/04/23",
+          "comment": "He did an amazing clarification of his courses!"
+        }
+      ]
+   },
+
+
+]

@@ -1,0 +1,342 @@
+[
+   {
+      "title": "金銀蛋菠菜",
+      "thumbnail_image": "http://i.imgur.com/x8ZL6mv.jpg",
+      "descriptions": "菠菜的盛產季在冬季，把握當令食材食用最健康、最美味。↵↵雖說現在已經進入春天了，但目前市面上還是可以看到菠菜的蹤影，就趁現在趕緊多吃點吧！！↵↵今天就把皮蛋＋鹹蛋組合，就變成『金銀蛋』啦！再加上當季蔬菜菠菜炒一炒，一整個好吃得不得了。",
+      "descriptions_short": "冬季盛產菠菜，把握當令食材食用最健康",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "Lien Ted",
+        "userId": "UID_1",
+        "number_of_likes": "124",
+        "recipe_tag": [ "主食", "快速" ]
+      },
+      "ingredients":[ "菠菜1大把", "熟鹹蛋1顆", "皮蛋1顆", "蒜末1大匙", "鹽巴少許"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "皮蛋事先放入電鍋蒸熟後剝殼，再切成小塊、菠菜洗淨後切成長段（分成菠菜梗、菠菜葉）、鹹蛋切小塊備用。",
+          "thumbnail_image": "http://i.imgur.com/OMKcOVL.jpg"
+
+        },{
+          "step_id": "2",
+          "description": "起熱油鍋，放入鹹蛋、皮蛋炒香，再放入蒜末爆香。",
+          "thumbnail_image": "http://i.imgur.com/YPHlT9Q.jpg" 
+        },{
+          "step_id": "3",
+          "description": "加入菠菜梗拌炒30秒。",
+          "thumbnail_image": "http://i.imgur.com/RwmZ7oo.jpg" 
+        },{
+          "step_id": "4",
+          "description": "加入菠菜葉、開水50c.c，蓋鍋燜煮2～3分鐘。",
+          "thumbnail_image": "http://i.imgur.com/5AbDkAe.jpg" 
+        },{
+          "step_id": "5",
+          "description": "最後放入鹽巴快速翻炒均勻即完成。（可試試自家鹹蛋味道，看是否要再加入少許鹽巴）",
+          "thumbnail_image": "http://i.imgur.com/SlD61uu.jpg" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "potato",
+          "thumbnail_image": "http://i.imgur.com/W69Qw3w.png" ,
+          "time_stamp": "2017/05/05",
+          "comment": "很容易上手，簡單的家常菜"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "byo",
+          "thumbnail_image": "http://i.imgur.com/fDqViy6.png" ,
+          "time_stamp": "2017/07/23",
+          "comment": "好吃!"
+        },{
+          "comment_id": "3",
+          "userId": "UID_3",
+          "userName": "Gu Ann",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/08/01",
+          "comment": "美味~"
+        }
+      ]
+   },
+   {
+      "title": "美味蘑菇菠菜烘蛋",
+      "thumbnail_image": "http://i.imgur.com/ZN5MKnj.jpg",
+      "descriptions": "烘蛋類料理應該是我剛實行輕斷食期間的心頭好。不但容易上手，而且變化多元。只要選擇自己喜歡的食材，入鍋稍微炒過，再加入打散的雞蛋液，然後放入烤箱烤10分鐘就能輕鬆完成。南瓜、高麗菜、節瓜、馬鈴薯、新鮮的菇類都可以是選擇。大力水手最愛的菠菜被稱為蔬菜之王，↵↵不但蛋白質含量高維生素A也比紅蘿蔔還多所含的葉酸能維持大腦血清素的穩定，讓人情緒穩定愉悅。熱量也低，所以也很適合選做輕斷食的食材",
+      "descriptions_short": "易上手且變化多元的輕食料理",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "Gu Ann",
+        "userId": "UID_1",
+        "number_of_likes": "120",
+        "recipe_tag": [ "主食", "快速" ]
+      },
+      "ingredients":[ "小型洋蔥切末半顆", "蘑菇切片2朵", "嫩菠菜葉1杯", "雞蛋2顆", "橄欖油一小匙", "鹽巴及胡椒適量"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "取一不沾鍋，加入橄欖油後，爆香洋蔥末",
+          "thumbnail_image": "http://i.imgur.com/cMZBzJ0.jpg"
+
+        },{
+          "step_id": "2",
+          "description": "待洋蔥炒至透明，加入切片蘑菇煸香",
+          "thumbnail_image": "" 
+        },{
+          "step_id": "3",
+          "description": "接著加入菠菜葉稍微拌炒",
+          "thumbnail_image": "" 
+        },{
+          "step_id": "3",
+          "description": "加入打散的雞蛋液及調味料，待蛋液約五分熟時，移至烤盤，接著放入預熱好200度的烤箱烤10分鐘（或蛋液凝固）。即完成。",
+          "thumbnail_image": "" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "BYO",
+          "thumbnail_image": "http://i.imgur.com/fDqViy6.png" ,
+          "time_stamp": "2017/01/23",
+          "comment": "好吃!!!"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "AYU",
+          "thumbnail_image": "http://i.imgur.com/clEl4UI.png" ,
+          "time_stamp": "2017/03/20",
+          "comment": "第一次做失敗了嗚嗚，不過很好吃~"
+        },{
+          "comment_id": "3",
+          "userId": "UID_3",
+          "userName": "POTATO",
+          "thumbnail_image": "http://i.imgur.com/W69Qw3w.png" ,
+          "time_stamp": "2017/03/30",
+          "comment": "超好吃的，感謝分享TT////"
+        },{
+          "comment_id": "3",
+          "userId": "UID_3",
+          "userName": "GU ANN",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/06/06",
+          "comment": "烘蛋好好吃"
+        }
+      ]
+   },
+   {
+      "title": "涼拌黑木耳",
+      "thumbnail_image": "http://i.imgur.com/80E3RtW.jpg",
+      "descriptions": "我是個愛胡搞瞎搞的雙寶媽↵↵為了孩子開始走進廚房的世界↵↵輕鬆易上手的料理是我的最愛",
+      "descriptions_short": "簡單開胃的涼拌菜",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "SUNNY",
+        "userId": "UID_1",
+        "number_of_likes": "233",
+        "recipe_tag": [ "嘴饞", "快速" ]
+      },
+      "ingredients":[ "黑木耳300g", "嫩薑一小塊", "醬油40ml", "香油15ml", "黑醋5ml", "白芝麻適量"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "將洗淨黑木耳放入滾水煮約三分鐘",
+          "thumbnail_image": "http://i.imgur.com/ggU6zVU.jpg"
+        },{
+          "step_id": "2",
+          "description": "這時候準備調味料，嫩薑切細絲~所有調味料混為一杯",
+          "thumbnail_image": "http://i.imgur.com/n88C7jd.jpg" 
+        },{
+          "step_id": "3",
+          "description": "取出泡冷水(不需要泡到全涼，溫溫的及可)，夏天可泡冰水吃起來更清爽。",
+          "thumbnail_image": "http://i.imgur.com/Lgc9JnK.jpg" 
+        },{
+          "step_id": "4",
+          "description": "倒入醬汁開始進行你儂我儂~~",
+          "thumbnail_image": "http://i.imgur.com/X04Im8R.jpg" 
+        },{
+          "step_id": "5",
+          "description": "用手套幫黑木耳馬殺雞一下幫助入味",
+          "thumbnail_image": "http://i.imgur.com/sUKcHvL.jpg" 
+        },{
+          "step_id": "6",
+          "description": "最後灑上白芝麻即可上桌囉~~~",
+          "thumbnail_image": "http://i.imgur.com/80E3RtW.jpg" 
+        },{
+          "step_id": "7",
+          "description": "另外說明:川耳比較適合涼拌，一般大片黑木耳適合入菜，小木耳口感Q彈吃起來比較有脆感，不過川耳比較難找，有興趣的朋友先用黑木耳試試也行（切小塊）",
+          "thumbnail_image": "http://i.imgur.com/H3krekQ.jpg" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "AYU",
+          "thumbnail_image": "http://i.imgur.com/clEl4UI.png" ,
+          "time_stamp": "2017/04/03",
+          "comment": "開胃爽口好吃"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "POTATO",
+          "thumbnail_image": "http://i.imgur.com/W69Qw3w.png" ,
+          "time_stamp": "2017/04/30",
+          "comment": "夏天吃冰冰的很棒~"
+        }
+      ]
+   },
+   {
+      "title": "涼拌雞絲",
+      "thumbnail_image": "http://i.imgur.com/pQDiSGg.jpg",
+      "descriptions": "過年家家戶戶都有雞肉，好吃的部位都吃完了，剩下的雞胸肉，拿來涼拌，又是一道下飯的小菜",
+      "descriptions_short": "乾柴的雞胸肉涼拌迸出新滋味",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "Lien Ted",
+        "userId": "UID_1",
+        "number_of_likes": "49",
+        "recipe_tag": [ "嘴饞", "快速" ]
+      },
+      "ingredients":[ "熟雞胸肉一塊250g", "小黃瓜一大條100g", "紅蘿蔔一小段30g", "蒜頭5-6顆25g", "香油1大匙", "鹽巴1小匙"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "雞胸肉剝絲",
+          "thumbnail_image": "http://i.imgur.com/mG8lhuR.jpg"
+
+        },{
+          "step_id": "2",
+          "description": "小黃瓜跟紅蘿蔔刨絲、蒜頭切末",
+          "thumbnail_image": "" 
+        },{
+          "step_id": "3",
+          "description": "雞胸肉原本就有一點鹹味，先嚐一下味道，其他材料全部下，鹽巴一邊拌一邊加，拌勻即可",
+          "thumbnail_image": "" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "potato",
+          "thumbnail_image": "http://i.imgur.com/W69Qw3w.png" ,
+          "time_stamp": "2017/11/23",
+          "comment": "好吃的減肥餐!"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "PJ",
+          "thumbnail_image": "http://i.imgur.com/fDqViy6.png" ,
+          "time_stamp": "2017/12/04",
+          "comment": "夏天吃好開胃，好好吃"
+        },{
+          "comment_id": "3",
+          "userId": "UID_3",
+          "userName": "AYU",
+          "thumbnail_image": "http://i.imgur.com/clEl4UI.png" ,
+          "time_stamp": "2017/12/23",
+          "comment": "簡單好吃!"
+        }
+      ]
+   },
+   {
+      "title": "螞蟻上樹",
+      "thumbnail_image": "http://i.imgur.com/9REWISO.jpg",
+      "descriptions": "下飯冬粉入菜代表料理",
+      "descriptions_short": "下飯冬粉入菜代表料理",
+      "recipe_ID":"RID_1",
+      "recipe_info": {
+        "userName": "Lien Ted",
+        "userId": "UID_1",
+        "number_of_likes": "73",
+        "recipe_tag": [ "主食", "快速" ]
+      },
+      "ingredients":[ "冬粉2把", "豬絞肉200克", "蔥2支", "薑15克", "蒜4辦", "大辣椒1支", "豆瓣醬一湯匙", "醬油一湯匙", "糖一匙", "白胡椒一匙", "蔬菜高湯/食用水適量"],
+
+      "steps": [
+        {
+          "step_id": "1",
+          "description": "薑蒜切末，蔥切末蔥白蔥綠分開。大辣椒洗淨去籽切末(需要辣味烹調則不去籽)。",
+          "thumbnail_image": "http://i.imgur.com/9W6SiMg.jpg"
+
+        },{
+          "step_id": "2",
+          "description": "冬粉處理分為兩種，一種是油處理一種是水處理，這邊兩種都分享，上圖為油處理。 油處理：冬粉不泡水，起油鍋到高油溫，在極高油溫狀態下丟入冬粉。約莫2~3秒冬粉就會瞬間膨脹，這時撈起冬粉濾掉殘油。 水處理：起水鍋，水滾後下冬粉煮至7分熟後撈起。把撈起的冬粉放進另一冷水鍋晃兩晃後再換新的一鍋冷水",
+          "thumbnail_image": "http://i.imgur.com/Zf3r39M.jpg" 
+        },{
+          "step_id": "3",
+          "description": "乾鍋下豬絞肉煮熟煸香",
+          "thumbnail_image": "http://i.imgur.com/qtMprZn.jpg" 
+        },{
+          "step_id": "4",
+          "description": "豬肉全熟肉香味飄出來後下薑蒜",
+          "thumbnail_image": "http://i.imgur.com/KSTR0rD.jpg" 
+        },{
+          "step_id": "5",
+          "description": "炒香後續入辣椒、蔥白",
+          "thumbnail_image": "http://i.imgur.com/VEYvK16.jpg" 
+        },{
+          "step_id": "6",
+          "description": "準備一湯匙豆瓣醬",
+          "thumbnail_image": "http://i.imgur.com/hxvVRe9.jpg" 
+        },{
+          "step_id": "7",
+          "description": "下豆瓣醬，炒香",
+          "thumbnail_image": "http://i.imgur.com/F6OXpKp.jpg" 
+        },{
+          "step_id": "8",
+          "description": "炒香後嗆入醬油",
+          "thumbnail_image": "http://i.imgur.com/sH8SdpM.jpg" 
+        },{
+          "step_id": "9",
+          "description": "最後加入蔬菜高湯(或食用水)，量大約抓在完整覆蓋食材的比例。煮滾後轉小火下糖、白胡椒，晃均",
+          "thumbnail_image": "http://i.imgur.com/tgiXDXW.jpg" 
+        },{
+          "step_id": "10",
+          "description": "加入蔥綠與冬粉讓冬粉充分吸收湯汁",
+          "thumbnail_image": "http://i.imgur.com/6mogBaZ.jpg" 
+        },{
+          "step_id": "11",
+          "description": "湯汁吸完後就可以起鍋盛盤囉。可以先用夾子筷子把冬粉夾到盤子上，最後再把鍋子內的絞肉跟香辛料放上去，視覺上會非常豐盛",
+          "thumbnail_image": "http://i.imgur.com/mOm2ohM.jpg" 
+        }
+      ],
+
+      "comment": [
+        {
+          "comment_id": "1",
+          "userId": "UID_1",
+          "userName": "Gu Ann",
+          "thumbnail_image": "http://i.imgur.com/CBQZo8W.png" ,
+          "time_stamp": "2017/03/03",
+          "comment": "一道下飯的家常菜，好吃!"
+        },{
+          "comment_id": "2",
+          "userId": "UID_2",
+          "userName": "Steven Lee",
+          "thumbnail_image": "http://i.imgur.com/fDqViy6.png" ,
+          "time_stamp": "2017/04/23",
+          "comment": "豆瓣醬不小心加太多有點太鹹"
+        },{
+          "comment_id": "3",
+          "userId": "UID_3",
+          "userName": "BYO",
+          "thumbnail_image": "http://i.imgur.com/fDqViy6.png" ,
+          "time_stamp": "2017/09/23",
+          "comment": "下飯!"
+        }
+      ]
+   },
+
+]
